@@ -1,4 +1,15 @@
+# Node.js (Discord eklentisi için)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java (Minecraft için)
 /target/
-/.idea/
-/*.iml
+*.class
+*.jar
+
+# IDE Ayarları (IntelliJ, VS Code vb.)
+.idea/
+.vscode/
+*.iml
 .DS_Store
