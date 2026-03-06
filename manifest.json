@@ -1,8 +1,8 @@
 {
-  "name": "RevengeTranslate",
+  "name": "bey-transate",
   "description": "Mesajları anlık çevirmenizi sağlar.",
   "version": "1.0.0",
-  "author": "Thexeyup",
+  "author": "Thexeyup2",
   "main": "index.js"
 }
 
